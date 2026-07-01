@@ -1,6 +1,6 @@
 # Hi, I'm Abdullahi 👋
 
-### Junior Front-End Software Engineer · AWS Certified Cloud Practitioner
+### Junior Front-End Software Engineer · AWS Certified Cloud Practitioner . AZ-900
 
 I'm a Software Engineering graduate passionate about building modern, responsive, and user-focused web applications. I enjoy turning ideas into functional digital experiences while continuously improving my skills in front-end development and cloud technologies.
 
@@ -9,12 +9,13 @@ I'm a Software Engineering graduate passionate about building modern, responsive
 ## 👨‍💻 About Me
 
 - 🎓 **Software Engineering Graduate**  
-- 💻 Front-End Developer focused on **React** and **Next.js**  
+- 💻 Front-End Developer focused on **React** and **Next.js**
+- 💼 Actively seeking **Junior Front-End Software Engineer roles or internships** 
 - ☁️ **AWS Certified Cloud Practitioner** | Microsoft Azure Fundamentals (AZ-900)  
 - 🌱 Currently improving my skills in **advanced React**, **Next.js**, and modern front-end development practices  
 - 🔍 Interested in **Cloud Computing**, **Artificial Intelligence**, **Cybersecurity**, and scalable web applications  
 - 🤝 Open to collaborating on open-source projects and real-world applications  
-- 💼 Actively seeking **Junior Front-End Software Engineer roles or internships**
+
 
 ---
 
@@ -27,7 +28,7 @@ HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL, Java
 React, Next.js, Tailwind CSS, Redux Toolkit, React Router, REST APIs
 
 ### Tools & Platforms
-Git, GitHub, VS Code, npm, Vite, Chrome DevTools
+Git, GitHub, VS Code, npm
 
 ### Databases
 PostgreSQL
@@ -57,19 +58,13 @@ A traffic light simulation demonstrating object-oriented design and state behavi
 
 ---
 
-### 🌐 Web Programming Project — HTML/CSS/JS
-University coursework project showcasing front-end development fundamentals.  
-🔗 https://github.com/abdullahiyakasai01/WEB-PROGRAMMING-PROJECT-2024-2025-NILGUN--NCER-S  
-
----
 
 ## 🎯 Current Goals
-
+- Land a **Junior Front-End Software Engineer role or internship** 
 - Build and ship production-ready **React & Next.js applications**  
 - Earn **AWS Solutions Architect Associate (SAA-C03)**  
 - Earn **Microsoft Azure Administrator (AZ-104)**  
 - Contribute to **open-source projects**  
-- Land a **Junior Front-End Software Engineer role or internship**  
 - Improve modern front-end development and performance engineering skills  
 
 ---
@@ -78,4 +73,3 @@ University coursework project showcasing front-end development fundamentals.
 
 - 🔗 LinkedIn: https://linkedin.com/in/abdullahi-ibrahim-yakasai  
 - 📧 Email: yaksagency@gmail.com  
-- 🐙 GitHub: https://github.com/abdullahiyakasai01  
