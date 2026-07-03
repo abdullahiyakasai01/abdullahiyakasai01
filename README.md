@@ -1,6 +1,6 @@
 # Hi, I'm Abdullahi 👋
 
-### Junior Front-End Software Engineer · AWS Certified Cloud Practitioner . AZ-900
+### Junior Front-End Software Engineer · AWS Certified Cloud Practitioner · AZ-900
 
 I'm a Software Engineering graduate passionate about building modern, responsive, and user-focused web applications. I enjoy turning ideas into functional digital experiences while continuously improving my skills in front-end development and cloud technologies.
 
@@ -8,14 +8,13 @@ I'm a Software Engineering graduate passionate about building modern, responsive
 
 ## 👨‍💻 About Me
 
-- 🎓 **Software Engineering Graduate**  
+- 🎓 **Software Engineering Graduate**
 - 💻 Front-End Developer focused on **React** and **Next.js**
-- 💼 Actively seeking **Junior Front-End Software Engineer roles or internships** 
-- ☁️ **AWS Certified Cloud Practitioner** | Microsoft Azure Fundamentals (AZ-900)  
-- 🌱 Currently improving my skills in **advanced React**, **Next.js**, and modern front-end development practices  
-- 🔍 Interested in **Cloud Computing**, **Artificial Intelligence**, **Cybersecurity**, and scalable web applications  
-- 🤝 Open to collaborating on open-source projects and real-world applications  
-
+- 💼 Actively seeking **Junior Front-End Software Engineer roles or internships**
+- ☁️ **AWS Certified Cloud Practitioner** | Microsoft Azure Fundamentals (AZ-900)
+- 🌱 Currently improving my skills in **advanced React**, **Next.js**, and modern front-end development practices
+- 🔍 Interested in **Cloud Computing**, **Artificial Intelligence**, **Cybersecurity**, and scalable web applications
+- 🤝 Open to collaborating on open-source projects and real-world applications
 
 ---
 
@@ -40,36 +39,36 @@ Responsive Web Design, Accessibility (WCAG 2.2), Component-Based Architecture, S
 
 ## 🚀 Featured Projects
 
-### 🧠 NoteFlow — TypeScript
-A smart note-taking and lecture management web application with searchable storage and structured organization.  
-🔗 https://github.com/abdullahiyakasai01/noteflow  
+### 💰 Ledger — Personal Finance Tracker
+A full-featured personal finance tracker built with React, Next.js, Tailwind CSS, and Redux Toolkit. Features 7+ reusable components, category-based spending breakdown with charts, transaction management (add/delete), and search/filter functionality.
+🔗 https://github.com/abdullahiyakasai01/ledger
 
 ---
 
-### ⏱️ Java Realtime Clock — Java
-A console-based digital clock built using OOP principles and real-time updates.  
-🔗 https://github.com/abdullahiyakasai01/Java-Realtime-Clock  
+### 🧠 NoteFlow — TypeScript
+A smart note-taking and lecture management web application with searchable storage and structured organization.
+🔗 https://github.com/abdullahiyakasai01/noteflow
 
 ---
 
 ### 🚦 OOP Traffic Simulation — Java
-A traffic light simulation demonstrating object-oriented design and state behavior.  
-🔗 https://github.com/abdullahiyakasai01/OOP-Traffic-Simulation  
+A traffic light simulation demonstrating object-oriented design and state behavior.
+🔗 https://github.com/abdullahiyakasai01/OOP-Traffic-Simulation
 
 ---
 
-
 ## 🎯 Current Goals
-- Land a **Junior Front-End Software Engineer role or internship** 
-- Build and ship production-ready **React & Next.js applications**  
-- Earn **AWS Solutions Architect Associate (SAA-C03)**  
-- Earn **Microsoft Azure Administrator (AZ-104)**  
-- Contribute to **open-source projects**  
-- Improve modern front-end development and performance engineering skills  
+
+- Land a **Junior Front-End Software Engineer role or internship**
+- Build and ship production-ready **React & Next.js applications**
+- Earn **AWS Solutions Architect Associate (SAA-C03)**
+- Earn **Microsoft Azure Administrator (AZ-104)**
+- Contribute to **open-source projects**
+- Improve modern front-end development and performance engineering skills
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/abdullahi-ibrahim-yakasai  
-- 📧 Email: yaksagency@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/abdullahi-ibrahim-yakasai
+- 📧 Email: yaksagency@gmail.com
