@@ -11,7 +11,9 @@
 <a href="https://www.credly.com/badges/b8ecc4f3-b213-4709-b682-0fae0b1e44f4/linked_in_profile">
   <img src="https://img.shields.io/badge/AWS_Certified-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff41" />
 </a>
-<img src="https://img.shields.io/badge/Azure_AZ--900-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff41" />
+<a href="https://learn.microsoft.com/en-gb/users/AbdullahiIbrahimYakasai-1495/credentials/B49DF720C3CD74FF?ref=https%3a%2f%2fwww.linkedin.com%2f">
+  <img src="https://img.shields.io/badge/Azure_AZ--900-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff41" />
+</a>
 
 </div>
 
