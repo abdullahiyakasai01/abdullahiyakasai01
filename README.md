@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:00ff41&height=240&section=header&text=ABDULLAHI%20YAKASAI&fontSize=48&fontColor=00ff41&fontAlignY=35&animation=fadeIn&desc=Junior%20Front-End%20Software%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Cloud&descAlignY=55&descSize=16&fontFamily=monospace" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:00ff41&height=240&section=header&text=ABDULLAHI%20YAKASAI&fontSize=48&fontColor=00ff41&fontAlignY=35&animation=fadeIn&desc=Graduate%20Software%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Cloud&descAlignY=55&descSize=16&fontFamily=monospace" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Building+with+React+%2B+Next.js;AWS+Certified+Cloud+Practitioner;Actively+seeking+Junior+Front-End+roles;Open+to+internships+%26+collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Building+with+React+%2B+Next.js;AWS+Certified+Cloud+Practitioner;Actively+seeking+Software+Engineering+roles;Open+to+internships+%26+collaboration" />
 
 <br/>
 
@@ -21,9 +21,9 @@ visitor@github:~$ cat ./about_me.txt
 
 ```
 Name       : Abdullahi Yakasai
-Role       : Junior Front-End Software Engineer
+Role       : Graduate Software Engineer
 Focus      : React · Next.js · Cloud (AWS/Azure)
-Status     : ACTIVELY SEEKING Junior Front-End roles / internships  [██████████░░]
+Status     : ACTIVELY SEEKING Software Engineering roles / internships  [██████████░░]
 Collab     : OPEN — reach out anytime ✅
 ```
 
@@ -34,11 +34,11 @@ Collab     : OPEN — reach out anytime ✅
 ### `> about.me`
 
 ```yaml
-role:      Junior Front-End Software Engineer
+role:      Graduate Software Engineer
 education: Software Engineering Graduate
 focus:     React · Next.js · Front-End Development
 cloud:     AWS Certified Cloud Practitioner · Azure Fundamentals (AZ-900)
-seeking:   Junior Front-End roles & internships
+seeking:   Software Engineering roles & internships
 interests: Cloud Computing · AI · Cybersecurity · Scalable Web Apps
 collab:    Open to open-source & real-world projects
 ```
@@ -109,7 +109,7 @@ Traffic light simulation demonstrating object-oriented design and state behavior
 
 ### `> current.goals`
 
-- 🎯 Land a **Junior Front-End Software Engineer** role or internship
+- 🎯 Land a **Software Engineering** role or internship
 - 🚀 Ship production-ready **React & Next.js** applications
 - ☁️ Earn **AWS Solutions Architect Associate (SAA-C03)**
 - ☁️ Earn **Microsoft Azure Administrator (AZ-104)**
