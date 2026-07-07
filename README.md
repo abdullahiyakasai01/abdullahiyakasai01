@@ -13,8 +13,8 @@ visitor@github:~$ cat ./about_me.txt
 ```
 
 ```
-Name       : Abdullahi Yakasai
-Role       : Junior Front-End Software Engineer
+Name       : Abdullahi Ibrahim Yakasai
+Role       : Graduate Software Engineer
 Focus      : React · Next.js · Cloud (AWS/Azure)
 Status     : ACTIVELY SEEKING Junior Front-End roles / internships █████████░░ 
 Collab     : OPEN — reach out anytime ✅
