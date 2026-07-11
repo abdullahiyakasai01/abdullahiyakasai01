@@ -60,23 +60,7 @@ collab:    Open to open-source & real-world projects
 **Core Concepts**
 `Responsive Design` `Accessibility (WCAG 2.2)` `Component Architecture` `State Management` `Performance Optimization` `Cross-Browser Compatibility` `OOP` `Agile/Scrum` `Git Workflows`
 
----
 
-### `> github.stats`
-
-```yaml
-total_contributions: 25+
-active_since:        "Apr 2024"
-longest_streak:      "3 days"
-```
-
-<div align="center">
-
-📊 **See my live contribution graph on my [GitHub profile →](https://github.com/abdullahiyakasai01)**
-
-</div>
-
----
 
 ### `> pinned.projects`
 
